@@ -1,0 +1,452 @@
+2017-08-16 16:59:45,392000 INFO  [default] My first info log using default logger
+2017-08-16 16:59:45,448000 INFO  [default] No : 1 二值化 times spend:  10.156
+2017-08-16 16:59:45,461000 INFO  [default] No : 2 查找轮廓 times spend:  13.4535
+2017-08-16 16:59:45,482000 INFO  [default] No : 3 图像转换 times spend:  21.1045
+2017-08-16 16:59:45,492000 INFO  [default] No : 4 拟合 times spend:  10.0754
+2017-08-16 16:59:45,500000 INFO  [default] Total times spend:  54.7893
+2017-08-16 16:59:45,541000 INFO  [default] No : 1 二值化 times spend:  6.09529
+2017-08-16 16:59:45,558000 INFO  [default] No : 2 查找轮廓 times spend:  16.3752
+2017-08-16 16:59:45,576000 INFO  [default] No : 3 图像转换 times spend:  18.5309
+2017-08-16 16:59:45,586000 INFO  [default] No : 4 拟合 times spend:  9.50814
+2017-08-16 16:59:45,593000 INFO  [default] Total times spend:  50.5095
+2017-08-16 16:59:45,632000 INFO  [default] No : 1 二值化 times spend:  6.97385
+2017-08-16 16:59:45,646000 INFO  [default] No : 2 查找轮廓 times spend:  13.9972
+2017-08-16 16:59:45,666000 INFO  [default] No : 3 图像转换 times spend:  20.5075
+2017-08-16 16:59:45,676000 INFO  [default] No : 4 拟合 times spend:  10.1679
+2017-08-16 16:59:45,684000 INFO  [default] Total times spend:  51.6465
+2017-08-16 16:59:45,723000 INFO  [default] No : 1 二值化 times spend:  8.46848
+2017-08-16 16:59:45,738000 INFO  [default] No : 2 查找轮廓 times spend:  14.7522
+2017-08-16 16:59:45,758000 INFO  [default] No : 3 图像转换 times spend:  20.2952
+2017-08-16 16:59:45,769000 INFO  [default] No : 4 拟合 times spend:  10.9468
+2017-08-16 16:59:45,777000 INFO  [default] Total times spend:  54.4627
+2017-08-16 16:59:45,816000 INFO  [default] No : 1 二值化 times spend:  7.3749
+2017-08-16 16:59:45,829000 INFO  [default] No : 2 查找轮廓 times spend:  12.695
+2017-08-16 16:59:45,848000 INFO  [default] No : 3 图像转换 times spend:  19.3607
+2017-08-16 16:59:45,858000 INFO  [default] No : 4 拟合 times spend:  9.87097
+2017-08-16 16:59:45,865000 INFO  [default] Total times spend:  49.3016
+2017-08-16 16:59:45,904000 INFO  [default] No : 1 二值化 times spend:  6.86633
+2017-08-16 16:59:45,918000 INFO  [default] No : 2 查找轮廓 times spend:  14.2952
+2017-08-16 16:59:45,937000 INFO  [default] No : 3 图像转换 times spend:  19.1088
+2017-08-16 16:59:45,948000 INFO  [default] No : 4 拟合 times spend:  10.6598
+2017-08-16 16:59:45,956000 INFO  [default] Total times spend:  50.93
+2017-08-16 16:59:45,994000 INFO  [default] No : 1 二值化 times spend:  6.88101
+2017-08-16 16:59:46,009000 INFO  [default] No : 2 查找轮廓 times spend:  14.6791
+2017-08-16 16:59:46,029000 INFO  [default] No : 3 图像转换 times spend:  20.0239
+2017-08-16 16:59:46,039000 INFO  [default] No : 4 拟合 times spend:  9.94947
+2017-08-16 16:59:46,046000 INFO  [default] Total times spend:  51.5335
+2017-08-16 16:59:46,086000 INFO  [default] No : 1 二值化 times spend:  7.78585
+2017-08-16 16:59:46,100000 INFO  [default] No : 2 查找轮廓 times spend:  13.9822
+2017-08-16 16:59:46,120000 INFO  [default] No : 3 图像转换 times spend:  20.0597
+2017-08-16 16:59:46,130000 INFO  [default] No : 4 拟合 times spend:  10.142
+2017-08-16 16:59:46,137000 INFO  [default] Total times spend:  51.9697
+2017-08-16 16:59:46,177000 INFO  [default] No : 1 二值化 times spend:  7.62099
+2017-08-16 16:59:46,190000 INFO  [default] No : 2 查找轮廓 times spend:  13.4507
+2017-08-16 16:59:46,214000 INFO  [default] No : 3 图像转换 times spend:  23.8982
+2017-08-16 16:59:46,224000 INFO  [default] No : 4 拟合 times spend:  10.2027
+2017-08-16 16:59:46,232000 INFO  [default] Total times spend:  55.1726
+2017-08-16 16:59:46,270000 INFO  [default] No : 1 二值化 times spend:  7.19434
+2017-08-16 16:59:46,283000 INFO  [default] No : 2 查找轮廓 times spend:  13.165
+2017-08-16 16:59:46,302000 INFO  [default] No : 3 图像转换 times spend:  19.0412
+2017-08-16 16:59:46,313000 INFO  [default] No : 4 拟合 times spend:  10.8014
+2017-08-16 16:59:46,321000 INFO  [default] Total times spend:  50.202
+2017-08-16 16:59:46,361000 INFO  [default] No : 1 二值化 times spend:  7.8722
+2017-08-16 16:59:46,375000 INFO  [default] No : 2 查找轮廓 times spend:  13.6934
+2017-08-16 16:59:46,397000 INFO  [default] No : 3 图像转换 times spend:  22.2803
+2017-08-16 16:59:46,408000 INFO  [default] No : 4 拟合 times spend:  11.283
+2017-08-16 16:59:46,415000 INFO  [default] Total times spend:  55.1289
+2017-08-16 16:59:46,456000 INFO  [default] No : 1 二值化 times spend:  8.82073
+2017-08-16 16:59:46,470000 INFO  [default] No : 2 查找轮廓 times spend:  13.5576
+2017-08-16 16:59:46,491000 INFO  [default] No : 3 图像转换 times spend:  21.3042
+2017-08-16 16:59:46,502000 INFO  [default] No : 4 拟合 times spend:  10.9048
+2017-08-16 16:59:46,510000 INFO  [default] Total times spend:  54.5873
+2017-08-16 16:59:46,549000 INFO  [default] No : 1 二值化 times spend:  7.04416
+2017-08-16 16:59:46,562000 INFO  [default] No : 2 查找轮廓 times spend:  12.324
+2017-08-16 16:59:46,581000 INFO  [default] No : 3 图像转换 times spend:  19.3457
+2017-08-16 16:59:46,591000 INFO  [default] No : 4 拟合 times spend:  10.3533
+2017-08-16 16:59:46,599000 INFO  [default] Total times spend:  49.0671
+2017-08-16 16:59:46,640000 INFO  [default] No : 1 二值化 times spend:  8.21727
+2017-08-16 16:59:46,654000 INFO  [default] No : 2 查找轮廓 times spend:  14.6836
+2017-08-16 16:59:46,675000 INFO  [default] No : 3 图像转换 times spend:  20.6126
+2017-08-16 16:59:46,685000 INFO  [default] No : 4 拟合 times spend:  9.7614
+2017-08-16 16:59:46,692000 INFO  [default] Total times spend:  53.2749
+2017-08-16 16:59:46,730000 INFO  [default] No : 1 二值化 times spend:  6.84312
+2017-08-16 16:59:46,743000 INFO  [default] No : 2 查找轮廓 times spend:  13.2285
+2017-08-16 16:59:46,764000 INFO  [default] No : 3 图像转换 times spend:  20.2293
+2017-08-16 16:59:46,774000 INFO  [default] No : 4 拟合 times spend:  10.7874
+2017-08-16 16:59:46,782000 INFO  [default] Total times spend:  51.0884
+2017-08-16 16:59:46,820000 INFO  [default] No : 1 二值化 times spend:  5.87104
+2017-08-16 16:59:46,834000 INFO  [default] No : 2 查找轮廓 times spend:  13.621
+2017-08-16 16:59:46,853000 INFO  [default] No : 3 图像转换 times spend:  19.3648
+2017-08-16 16:59:46,864000 INFO  [default] No : 4 拟合 times spend:  10.1485
+2017-08-16 16:59:46,872000 INFO  [default] Total times spend:  49.0053
+2017-08-16 16:59:46,910000 INFO  [default] No : 1 二值化 times spend:  7.15679
+2017-08-16 16:59:46,925000 INFO  [default] No : 2 查找轮廓 times spend:  14.6826
+2017-08-16 16:59:46,946000 INFO  [default] No : 3 图像转换 times spend:  21.3997
+2017-08-16 16:59:46,957000 INFO  [default] No : 4 拟合 times spend:  10.4007
+2017-08-16 16:59:46,965000 INFO  [default] Total times spend:  53.6398
+2017-08-16 16:59:47,003000 INFO  [default] No : 1 二值化 times spend:  6.53115
+2017-08-16 16:59:47,017000 INFO  [default] No : 2 查找轮廓 times spend:  14.1446
+2017-08-16 16:59:47,036000 INFO  [default] No : 3 图像转换 times spend:  18.732
+2017-08-16 16:59:47,045000 INFO  [default] No : 4 拟合 times spend:  9.29755
+2017-08-16 16:59:47,052000 INFO  [default] Total times spend:  48.7053
+2017-08-16 16:59:47,091000 INFO  [default] No : 1 二值化 times spend:  5.68673
+2017-08-16 16:59:47,105000 INFO  [default] No : 2 查找轮廓 times spend:  13.7723
+2017-08-16 16:59:47,125000 INFO  [default] No : 3 图像转换 times spend:  19.9034
+2017-08-16 16:59:47,136000 INFO  [default] No : 4 拟合 times spend:  11.2386
+2017-08-16 16:59:47,143000 INFO  [default] Total times spend:  50.601
+2017-08-16 16:59:47,182000 INFO  [default] No : 1 二值化 times spend:  5.59355
+2017-08-16 16:59:47,196000 INFO  [default] No : 2 查找轮廓 times spend:  14.0057
+2017-08-16 16:59:47,215000 INFO  [default] No : 3 图像转换 times spend:  19.7873
+2017-08-16 16:59:47,226000 INFO  [default] No : 4 拟合 times spend:  10.4386
+2017-08-16 16:59:47,233000 INFO  [default] Total times spend:  49.8252
+2017-08-16 16:59:47,271000 INFO  [default] No : 1 二值化 times spend:  5.80756
+2017-08-16 16:59:47,284000 INFO  [default] No : 2 查找轮廓 times spend:  13.2033
+2017-08-16 16:59:47,303000 INFO  [default] No : 3 图像转换 times spend:  18.2053
+2017-08-16 16:59:47,314000 INFO  [default] No : 4 拟合 times spend:  11.0038
+2017-08-16 16:59:47,321000 INFO  [default] Total times spend:  48.2199
+2017-08-16 16:59:47,358000 INFO  [default] No : 1 二值化 times spend:  5.72462
+2017-08-16 16:59:47,373000 INFO  [default] No : 2 查找轮廓 times spend:  14.543
+2017-08-16 16:59:47,392000 INFO  [default] No : 3 图像转换 times spend:  19.2842
+2017-08-16 16:59:47,402000 INFO  [default] No : 4 拟合 times spend:  10.0997
+2017-08-16 16:59:47,410000 INFO  [default] Total times spend:  49.6514
+2017-08-16 16:59:47,448000 INFO  [default] No : 1 二值化 times spend:  6.09563
+2017-08-16 16:59:47,462000 INFO  [default] No : 2 查找轮廓 times spend:  14.6877
+2017-08-16 16:59:47,482000 INFO  [default] No : 3 图像转换 times spend:  19.5276
+2017-08-16 16:59:47,492000 INFO  [default] No : 4 拟合 times spend:  10.3642
+2017-08-16 16:59:47,499000 INFO  [default] Total times spend:  50.6751
+2017-08-16 16:59:47,537000 INFO  [default] No : 1 二值化 times spend:  5.52767
+2017-08-16 16:59:47,552000 INFO  [default] No : 2 查找轮廓 times spend:  14.716
+2017-08-16 16:59:47,571000 INFO  [default] No : 3 图像转换 times spend:  18.563
+2017-08-16 16:59:47,580000 INFO  [default] No : 4 拟合 times spend:  9.56378
+2017-08-16 16:59:47,588000 INFO  [default] Total times spend:  48.3705
+2017-08-16 16:59:47,626000 INFO  [default] No : 1 二值化 times spend:  6.29735
+2017-08-16 16:59:47,640000 INFO  [default] No : 2 查找轮廓 times spend:  14.3996
+2017-08-16 16:59:47,660000 INFO  [default] No : 3 图像转换 times spend:  20.2952
+2017-08-16 16:59:47,670000 INFO  [default] No : 4 拟合 times spend:  9.50814
+2017-08-16 16:59:47,677000 INFO  [default] Total times spend:  50.5003
+2017-08-16 16:59:47,715000 INFO  [default] No : 1 二值化 times spend:  6.40145
+2017-08-16 16:59:47,730000 INFO  [default] No : 2 查找轮廓 times spend:  14.3474
+2017-08-16 16:59:47,749000 INFO  [default] No : 3 图像转换 times spend:  19.2341
+2017-08-16 16:59:47,760000 INFO  [default] No : 4 拟合 times spend:  10.8181
+2017-08-16 16:59:47,767000 INFO  [default] Total times spend:  50.801
+2017-08-16 16:59:47,805000 INFO  [default] No : 1 二值化 times spend:  5.71301
+2017-08-16 16:59:47,819000 INFO  [default] No : 2 查找轮廓 times spend:  13.7449
+2017-08-16 16:59:47,839000 INFO  [default] No : 3 图像转换 times spend:  19.9187
+2017-08-16 16:59:47,849000 INFO  [default] No : 4 拟合 times spend:  10.1809
+2017-08-16 16:59:47,857000 INFO  [default] Total times spend:  49.5576
+2017-08-16 16:59:47,896000 INFO  [default] No : 1 二值化 times spend:  6.76598
+2017-08-16 16:59:47,910000 INFO  [default] No : 2 查找轮廓 times spend:  14.0665
+2017-08-16 16:59:47,931000 INFO  [default] No : 3 图像转换 times spend:  21.1751
+2017-08-16 16:59:47,941000 INFO  [default] No : 4 拟合 times spend:  10.0642
+2017-08-16 16:59:47,949000 INFO  [default] Total times spend:  52.0717
+2017-08-16 16:59:47,988000 INFO  [default] No : 1 二值化 times spend:  6.81581
+2017-08-16 16:59:48,001000 INFO  [default] No : 2 查找轮廓 times spend:  13.8934
+2017-08-16 16:59:48,021000 INFO  [default] No : 3 图像转换 times spend:  19.5081
+2017-08-16 16:59:48,031000 INFO  [default] No : 4 拟合 times spend:  10.2061
+2017-08-16 16:59:48,038000 INFO  [default] Total times spend:  50.4235
+2017-08-16 16:59:48,077000 INFO  [default] No : 1 二值化 times spend:  6.79022
+2017-08-16 16:59:48,091000 INFO  [default] No : 2 查找轮廓 times spend:  13.647
+2017-08-16 16:59:48,110000 INFO  [default] No : 3 图像转换 times spend:  19.6597
+2017-08-16 16:59:48,120000 INFO  [default] No : 4 拟合 times spend:  10.1338
+2017-08-16 16:59:48,128000 INFO  [default] Total times spend:  50.2307
+2017-08-16 16:59:48,166000 INFO  [default] No : 1 二值化 times spend:  6.91036
+2017-08-16 16:59:48,179000 INFO  [default] No : 2 查找轮廓 times spend:  13.0115
+2017-08-16 16:59:48,200000 INFO  [default] No : 3 图像转换 times spend:  21.0369
+2017-08-16 16:59:48,210000 INFO  [default] No : 4 拟合 times spend:  9.74297
+2017-08-16 16:59:48,218000 INFO  [default] Total times spend:  50.7017
+2017-08-16 16:59:48,257000 INFO  [default] No : 1 二值化 times spend:  8.11522
+2017-08-16 16:59:48,271000 INFO  [default] No : 2 查找轮廓 times spend:  14.4242
+2017-08-16 16:59:48,294000 INFO  [default] No : 3 图像转换 times spend:  22.777
+2017-08-16 16:59:48,303000 INFO  [default] No : 4 拟合 times spend:  8.95418
+2017-08-16 16:59:48,310000 INFO  [default] Total times spend:  54.2705
+2017-08-16 16:59:48,349000 INFO  [default] No : 1 二值化 times spend:  6.92401
+2017-08-16 16:59:48,364000 INFO  [default] No : 2 查找轮廓 times spend:  14.0525
+2017-08-16 16:59:48,384000 INFO  [default] No : 3 图像转换 times spend:  20.4631
+2017-08-16 16:59:48,394000 INFO  [default] No : 4 拟合 times spend:  10.315
+2017-08-16 16:59:48,401000 INFO  [default] Total times spend:  51.7547
+2017-08-16 16:59:48,441000 INFO  [default] No : 1 二值化 times spend:  7.66502
+2017-08-16 16:59:48,454000 INFO  [default] No : 2 查找轮廓 times spend:  13.4299
+2017-08-16 16:59:48,474000 INFO  [default] No : 3 图像转换 times spend:  20.3116
+2017-08-16 16:59:48,484000 INFO  [default] No : 4 拟合 times spend:  10.1577
+2017-08-16 16:59:48,492000 INFO  [default] Total times spend:  51.5642
+2017-08-16 16:59:48,533000 INFO  [default] No : 1 二值化 times spend:  7.85104
+2017-08-16 16:59:48,547000 INFO  [default] No : 2 查找轮廓 times spend:  14.0631
+2017-08-16 16:59:48,569000 INFO  [default] No : 3 图像转换 times spend:  21.9632
+2017-08-16 16:59:48,578000 INFO  [default] No : 4 拟合 times spend:  9.48459
+2017-08-16 16:59:48,585000 INFO  [default] Total times spend:  53.3619
+2017-08-16 16:59:48,623000 INFO  [default] No : 1 二值化 times spend:  6.70591
+2017-08-16 16:59:48,639000 INFO  [default] No : 2 查找轮廓 times spend:  15.4167
+2017-08-16 16:59:48,660000 INFO  [default] No : 3 图像转换 times spend:  20.6679
+2017-08-16 16:59:48,669000 INFO  [default] No : 4 拟合 times spend:  9.56617
+2017-08-16 16:59:48,677000 INFO  [default] Total times spend:  52.3567
+2017-08-16 16:59:48,715000 INFO  [default] No : 1 二值化 times spend:  6.59088
+2017-08-16 16:59:48,728000 INFO  [default] No : 2 查找轮廓 times spend:  13.9375
+2017-08-16 16:59:48,749000 INFO  [default] No : 3 图像转换 times spend:  20.2048
+2017-08-16 16:59:48,758000 INFO  [default] No : 4 拟合 times spend:  9.09071
+2017-08-16 16:59:48,765000 INFO  [default] Total times spend:  49.8238
+2017-08-16 16:59:48,804000 INFO  [default] No : 1 二值化 times spend:  6.48098
+2017-08-16 16:59:48,818000 INFO  [default] No : 2 查找轮廓 times spend:  13.9166
+2017-08-16 16:59:48,837000 INFO  [default] No : 3 图像转换 times spend:  19.0822
+2017-08-16 16:59:48,847000 INFO  [default] No : 4 拟合 times spend:  10.0375
+2017-08-16 16:59:48,854000 INFO  [default] Total times spend:  49.5173
+2017-08-16 16:59:48,893000 INFO  [default] No : 1 二值化 times spend:  7.36534
+2017-08-16 16:59:48,907000 INFO  [default] No : 2 查找轮廓 times spend:  13.7064
+2017-08-16 16:59:48,927000 INFO  [default] No : 3 图像转换 times spend:  20.2112
+2017-08-16 16:59:48,936000 INFO  [default] No : 4 拟合 times spend:  9.27707
+2017-08-16 16:59:48,944000 INFO  [default] Total times spend:  50.56
+2017-08-16 16:59:48,982000 INFO  [default] No : 1 二值化 times spend:  6.74687
+2017-08-16 16:59:48,996000 INFO  [default] No : 2 查找轮廓 times spend:  13.5999
+2017-08-16 16:59:49,016000 INFO  [default] No : 3 图像转换 times spend:  20.6331
+2017-08-16 16:59:49,025000 INFO  [default] No : 4 拟合 times spend:  9.31359
+2017-08-16 16:59:49,033000 INFO  [default] Total times spend:  50.2935
+2017-08-16 16:59:49,072000 INFO  [default] No : 1 二值化 times spend:  6.89022
+2017-08-16 16:59:49,086000 INFO  [default] No : 2 查找轮廓 times spend:  13.9692
+2017-08-16 16:59:49,106000 INFO  [default] No : 3 图像转换 times spend:  19.8413
+2017-08-16 16:59:49,115000 INFO  [default] No : 4 拟合 times spend:  9.66515
+2017-08-16 16:59:49,123000 INFO  [default] Total times spend:  50.3658
+2017-08-16 16:59:49,162000 INFO  [default] No : 1 二值化 times spend:  8.07289
+2017-08-16 16:59:49,178000 INFO  [default] No : 2 查找轮廓 times spend:  15.1215
+2017-08-16 16:59:49,199000 INFO  [default] No : 3 图像转换 times spend:  21.27
+2017-08-16 16:59:49,208000 INFO  [default] No : 4 拟合 times spend:  9.19003
+2017-08-16 16:59:49,216000 INFO  [default] Total times spend:  53.6544
+2017-08-16 16:59:49,254000 INFO  [default] No : 1 二值化 times spend:  6.87896
+2017-08-16 16:59:49,268000 INFO  [default] No : 2 查找轮廓 times spend:  13.4279
+2017-08-16 16:59:49,288000 INFO  [default] No : 3 图像转换 times spend:  20.1232
+2017-08-16 16:59:49,297000 INFO  [default] No : 4 拟合 times spend:  9.31939
+2017-08-16 16:59:49,304000 INFO  [default] Total times spend:  49.7494
+2017-08-16 16:59:49,344000 INFO  [default] No : 1 二值化 times spend:  7.78926
+2017-08-16 16:59:49,358000 INFO  [default] No : 2 查找轮廓 times spend:  13.8364
+2017-08-16 16:59:49,378000 INFO  [default] No : 3 图像转换 times spend:  20.0846
+2017-08-16 16:59:49,388000 INFO  [default] No : 4 拟合 times spend:  9.70816
+2017-08-16 16:59:49,395000 INFO  [default] Total times spend:  51.4185
+2017-08-16 16:59:49,434000 INFO  [default] No : 1 二值化 times spend:  6.82674
+2017-08-16 16:59:49,447000 INFO  [default] No : 2 查找轮廓 times spend:  13.4026
+2017-08-16 16:59:49,467000 INFO  [default] No : 3 图像转换 times spend:  19.3842
+2017-08-16 16:59:49,476000 INFO  [default] No : 4 拟合 times spend:  9.09856
+2017-08-16 16:59:49,483000 INFO  [default] Total times spend:  48.7121
+2017-08-16 16:59:49,523000 INFO  [default] No : 1 二值化 times spend:  7.73977
+2017-08-16 16:59:49,535000 INFO  [default] No : 2 查找轮廓 times spend:  12.7684
+2017-08-16 16:59:49,554000 INFO  [default] No : 3 图像转换 times spend:  18.9402
+2017-08-16 16:59:49,564000 INFO  [default] No : 4 拟合 times spend:  9.7341
+2017-08-16 16:59:49,571000 INFO  [default] Total times spend:  49.1825
+2017-08-16 16:59:49,610000 INFO  [default] No : 1 二值化 times spend:  7.35715
+2017-08-16 16:59:49,623000 INFO  [default] No : 2 查找轮廓 times spend:  12.835
+2017-08-16 16:59:49,643000 INFO  [default] No : 3 图像转换 times spend:  19.8235
+2017-08-16 16:59:49,652000 INFO  [default] No : 4 拟合 times spend:  9.68904
+2017-08-16 16:59:49,660000 INFO  [default] Total times spend:  49.7047
+2017-08-16 16:59:49,700000 INFO  [default] No : 1 二值化 times spend:  7.58105
+2017-08-16 16:59:49,714000 INFO  [default] No : 2 查找轮廓 times spend:  13.9224
+2017-08-16 16:59:49,733000 INFO  [default] No : 3 图像转换 times spend:  19.4993
+2017-08-16 16:59:49,743000 INFO  [default] No : 4 拟合 times spend:  9.86141
+2017-08-16 16:59:49,751000 INFO  [default] Total times spend:  50.8642
+2017-08-16 16:59:49,789000 INFO  [default] No : 1 二值化 times spend:  7.07453
+2017-08-16 16:59:49,801000 INFO  [default] No : 2 查找轮廓 times spend:  12.5305
+2017-08-16 16:59:49,820000 INFO  [default] No : 3 图像转换 times spend:  18.804
+2017-08-16 16:59:49,829000 INFO  [default] No : 4 拟合 times spend:  8.87977
+2017-08-16 16:59:49,836000 INFO  [default] Total times spend:  47.2888
+2017-08-16 16:59:49,876000 INFO  [default] No : 1 二值化 times spend:  7.69574
+2017-08-16 16:59:49,889000 INFO  [default] No : 2 查找轮廓 times spend:  12.8889
+2017-08-16 16:59:49,910000 INFO  [default] No : 3 图像转换 times spend:  21.1069
+2017-08-16 16:59:49,920000 INFO  [default] No : 4 拟合 times spend:  9.89452
+2017-08-16 16:59:49,927000 INFO  [default] Total times spend:  51.586
+2017-08-16 16:59:49,965000 INFO  [default] No : 1 二值化 times spend:  6.77451
+2017-08-16 16:59:49,978000 INFO  [default] No : 2 查找轮廓 times spend:  12.8817
+2017-08-16 16:59:49,997000 INFO  [default] No : 3 图像转换 times spend:  19.6242
+2017-08-16 16:59:50,007000 INFO  [default] No : 4 拟合 times spend:  9.67539
+2017-08-16 16:59:50,015000 INFO  [default] Total times spend:  48.9558
+2017-08-16 16:59:50,058000 INFO  [default] No : 1 二值化 times spend:  10.6792
+2017-08-16 16:59:50,081000 INFO  [default] No : 2 查找轮廓 times spend:  23.2251
+2017-08-16 16:59:50,102000 INFO  [default] No : 3 图像转换 times spend:  20.5154
+2017-08-16 16:59:50,114000 INFO  [default] No : 4 拟合 times spend:  11.879
+2017-08-16 16:59:50,121000 INFO  [default] Total times spend:  66.2986
+2017-08-16 16:59:50,160000 INFO  [default] No : 1 二值化 times spend:  6.47893
+2017-08-16 16:59:50,175000 INFO  [default] No : 2 查找轮廓 times spend:  15.757
+2017-08-16 16:59:50,197000 INFO  [default] No : 3 图像转换 times spend:  21.5011
+2017-08-16 16:59:50,208000 INFO  [default] No : 4 拟合 times spend:  11.1359
+2017-08-16 16:59:50,216000 INFO  [default] Total times spend:  54.873
+2017-08-16 16:59:50,255000 INFO  [default] No : 1 二值化 times spend:  6.01235
+2017-08-16 16:59:50,269000 INFO  [default] No : 2 查找轮廓 times spend:  14.7211
+2017-08-16 16:59:50,288000 INFO  [default] No : 3 图像转换 times spend:  18.6487
+2017-08-16 16:59:50,300000 INFO  [default] No : 4 拟合 times spend:  11.6858
+2017-08-16 16:59:50,307000 INFO  [default] Total times spend:  51.0679
+2017-08-16 16:59:50,348000 INFO  [default] No : 1 二值化 times spend:  7.29161
+2017-08-16 16:59:50,361000 INFO  [default] No : 2 查找轮廓 times spend:  13.0958
+2017-08-16 16:59:50,382000 INFO  [default] No : 3 图像转换 times spend:  21.1628
+2017-08-16 16:59:50,392000 INFO  [default] No : 4 拟合 times spend:  9.72557
+2017-08-16 16:59:50,399000 INFO  [default] Total times spend:  51.2758
+2017-08-16 16:59:50,438000 INFO  [default] No : 1 二值化 times spend:  5.90449
+2017-08-16 16:59:50,452000 INFO  [default] No : 2 查找轮廓 times spend:  14.7819
+2017-08-16 16:59:50,472000 INFO  [default] No : 3 图像转换 times spend:  19.7
+2017-08-16 16:59:50,481000 INFO  [default] No : 4 拟合 times spend:  8.747
+2017-08-16 16:59:50,487000 INFO  [default] Total times spend:  49.1333
+2017-08-16 16:59:50,527000 INFO  [default] No : 1 二值化 times spend:  7.45784
+2017-08-16 16:59:50,540000 INFO  [default] No : 2 查找轮廓 times spend:  13.277
+2017-08-16 16:59:50,560000 INFO  [default] No : 3 图像转换 times spend:  20.1017
+2017-08-16 16:59:50,571000 INFO  [default] No : 4 拟合 times spend:  10.1836
+2017-08-16 16:59:50,578000 INFO  [default] Total times spend:  51.0201
+2017-08-16 16:59:50,616000 INFO  [default] No : 1 二值化 times spend:  6.73492
+2017-08-16 16:59:50,629000 INFO  [default] No : 2 查找轮廓 times spend:  12.3892
+2017-08-16 16:59:50,649000 INFO  [default] No : 3 图像转换 times spend:  20.341
+2017-08-16 16:59:50,658000 INFO  [default] No : 4 拟合 times spend:  8.97296
+2017-08-16 16:59:50,665000 INFO  [default] Total times spend:  48.4381
+2017-08-16 16:59:50,704000 INFO  [default] No : 1 二值化 times spend:  6.58576
+2017-08-16 16:59:50,719000 INFO  [default] No : 2 查找轮廓 times spend:  14.5901
+2017-08-16 16:59:50,740000 INFO  [default] No : 3 图像转换 times spend:  21.0796
+2017-08-16 16:59:50,750000 INFO  [default] No : 4 拟合 times spend:  10.3205
+2017-08-16 16:59:50,758000 INFO  [default] Total times spend:  52.5759
+2017-08-16 16:59:50,797000 INFO  [default] No : 1 二值化 times spend:  7.44384
+2017-08-16 16:59:50,810000 INFO  [default] No : 2 查找轮廓 times spend:  13.7538
+2017-08-16 16:59:50,831000 INFO  [default] No : 3 图像转换 times spend:  20.8755
+2017-08-16 16:59:50,841000 INFO  [default] No : 4 拟合 times spend:  9.502
+2017-08-16 16:59:50,847000 INFO  [default] Total times spend:  51.5751
+2017-08-16 16:59:50,886000 INFO  [default] No : 1 二值化 times spend:  7.38855
+2017-08-16 16:59:50,900000 INFO  [default] No : 2 查找轮廓 times spend:  13.748
+2017-08-16 16:59:50,919000 INFO  [default] No : 3 图像转换 times spend:  19.1972
+2017-08-16 16:59:50,929000 INFO  [default] No : 4 拟合 times spend:  9.6631
+2017-08-16 16:59:50,936000 INFO  [default] Total times spend:  49.9969
+2017-08-16 16:59:50,975000 INFO  [default] No : 1 二值化 times spend:  7.29332
+2017-08-16 16:59:50,991000 INFO  [default] No : 2 查找轮廓 times spend:  15.9861
+2017-08-16 16:59:51,011000 INFO  [default] No : 3 图像转换 times spend:  19.7918
+2017-08-16 16:59:51,021000 INFO  [default] No : 4 拟合 times spend:  10.6198
+2017-08-16 16:59:51,029000 INFO  [default] Total times spend:  53.691
+2017-08-16 16:59:51,069000 INFO  [default] No : 1 二值化 times spend:  8.59272
+2017-08-16 16:59:51,083000 INFO  [default] No : 2 查找轮廓 times spend:  13.533
+2017-08-16 16:59:51,102000 INFO  [default] No : 3 图像转换 times spend:  19.5866
+2017-08-16 16:59:51,112000 INFO  [default] No : 4 拟合 times spend:  10.2362
+2017-08-16 16:59:51,120000 INFO  [default] Total times spend:  51.9485
+2017-08-16 16:59:51,161000 INFO  [default] No : 1 二值化 times spend:  7.79062
+2017-08-16 16:59:51,174000 INFO  [default] No : 2 查找轮廓 times spend:  12.7957
+2017-08-16 16:59:51,194000 INFO  [default] No : 3 图像转换 times spend:  20.1273
+2017-08-16 16:59:51,205000 INFO  [default] No : 4 拟合 times spend:  10.9137
+2017-08-16 16:59:51,213000 INFO  [default] Total times spend:  51.6273
+2017-08-16 16:59:51,252000 INFO  [default] No : 1 二值化 times spend:  7.24451
+2017-08-16 16:59:51,268000 INFO  [default] No : 2 查找轮廓 times spend:  16.5168
+2017-08-16 16:59:51,288000 INFO  [default] No : 3 图像转换 times spend:  19.9795
+2017-08-16 16:59:51,298000 INFO  [default] No : 4 拟合 times spend:  9.81226
+2017-08-16 16:59:51,305000 INFO  [default] Total times spend:  53.5531
+2017-08-16 16:59:51,344000 INFO  [default] No : 1 二值化 times spend:  7.58447
+2017-08-16 16:59:51,359000 INFO  [default] No : 2 查找轮廓 times spend:  14.7505
+2017-08-16 16:59:51,379000 INFO  [default] No : 3 图像转换 times spend:  19.8989
+2017-08-16 16:59:51,389000 INFO  [default] No : 4 拟合 times spend:  10.0232
+2017-08-16 16:59:51,397000 INFO  [default] Total times spend:  52.2571
+2017-08-16 16:59:51,436000 INFO  [default] No : 1 二值化 times spend:  7.19024
+2017-08-16 16:59:51,449000 INFO  [default] No : 2 查找轮廓 times spend:  12.5343
+2017-08-16 16:59:51,468000 INFO  [default] No : 3 图像转换 times spend:  18.8794
+2017-08-16 16:59:51,477000 INFO  [default] No : 4 拟合 times spend:  9.69519
+2017-08-16 16:59:51,485000 INFO  [default] Total times spend:  48.2991
+2017-08-16 16:59:51,524000 INFO  [default] No : 1 二值化 times spend:  7.43053
+2017-08-16 16:59:51,538000 INFO  [default] No : 2 查找轮廓 times spend:  13.6408
+2017-08-16 16:59:51,557000 INFO  [default] No : 3 图像转换 times spend:  19.6924
+2017-08-16 16:59:51,567000 INFO  [default] No : 4 拟合 times spend:  9.84981
+2017-08-16 16:59:51,575000 INFO  [default] Total times spend:  50.6136
+2017-08-16 16:59:51,615000 INFO  [default] No : 1 二值化 times spend:  7.49094
+2017-08-16 16:59:51,629000 INFO  [default] No : 2 查找轮廓 times spend:  13.5265
+2017-08-16 16:59:51,649000 INFO  [default] No : 3 图像转换 times spend:  20.256
+2017-08-16 16:59:51,658000 INFO  [default] No : 4 拟合 times spend:  9.0832
+2017-08-16 16:59:51,665000 INFO  [default] Total times spend:  50.3566
+2017-08-16 16:59:51,703000 INFO  [default] No : 1 二值化 times spend:  7.19366
+2017-08-16 16:59:51,716000 INFO  [default] No : 2 查找轮廓 times spend:  13.2333
+2017-08-16 16:59:51,736000 INFO  [default] No : 3 图像转换 times spend:  19.9839
+2017-08-16 16:59:51,745000 INFO  [default] No : 4 拟合 times spend:  9.22212
+2017-08-16 16:59:51,753000 INFO  [default] Total times spend:  49.633
+2017-08-16 16:59:51,791000 INFO  [default] No : 1 二值化 times spend:  7.44657
+2017-08-16 16:59:51,804000 INFO  [default] No : 2 查找轮廓 times spend:  13.0309
+2017-08-16 16:59:51,825000 INFO  [default] No : 3 图像转换 times spend:  20.9936
+2017-08-16 16:59:51,835000 INFO  [default] No : 4 拟合 times spend:  9.40541
+2017-08-16 16:59:51,842000 INFO  [default] Total times spend:  50.8764
+2017-08-16 16:59:51,882000 INFO  [default] No : 1 二值化 times spend:  7.57423
+2017-08-16 16:59:51,895000 INFO  [default] No : 2 查找轮廓 times spend:  12.8623
+2017-08-16 16:59:51,916000 INFO  [default] No : 3 图像转换 times spend:  20.6242
+2017-08-16 16:59:51,925000 INFO  [default] No : 4 拟合 times spend:  9.2484
+2017-08-16 16:59:51,932000 INFO  [default] Total times spend:  50.3092
+2017-08-16 16:59:51,970000 INFO  [default] No : 1 二值化 times spend:  6.21987
+2017-08-16 16:59:51,982000 INFO  [default] No : 2 查找轮廓 times spend:  12.7814
+2017-08-16 16:59:52,002000 INFO  [default] No : 3 图像转换 times spend:  19.375
+2017-08-16 16:59:52,011000 INFO  [default] No : 4 拟合 times spend:  9.72659
+2017-08-16 16:59:52,019000 INFO  [default] Total times spend:  48.1029
+2017-08-16 16:59:52,060000 INFO  [default] No : 1 二值化 times spend:  8.98422
+2017-08-16 16:59:52,073000 INFO  [default] No : 2 查找轮廓 times spend:  13.3152
+2017-08-16 16:59:52,094000 INFO  [default] No : 3 图像转换 times spend:  21.0335
+2017-08-16 16:59:52,104000 INFO  [default] No : 4 拟合 times spend:  9.99384
+2017-08-16 16:59:52,112000 INFO  [default] Total times spend:  53.3268
+2017-08-16 16:59:52,151000 INFO  [default] No : 1 二值化 times spend:  7.45203
+2017-08-16 16:59:52,166000 INFO  [default] No : 2 查找轮廓 times spend:  14.8532
+2017-08-16 16:59:52,186000 INFO  [default] No : 3 图像转换 times spend:  20.6379
+2017-08-16 16:59:52,197000 INFO  [default] No : 4 拟合 times spend:  10.4365
+2017-08-16 16:59:52,204000 INFO  [default] Total times spend:  53.3797
+2017-08-16 16:59:52,244000 INFO  [default] No : 1 二值化 times spend:  8.17939
+2017-08-16 16:59:52,259000 INFO  [default] No : 2 查找轮廓 times spend:  15.1126
+2017-08-16 16:59:52,280000 INFO  [default] No : 3 图像转换 times spend:  21.126
+2017-08-16 16:59:52,289000 INFO  [default] No : 4 拟合 times spend:  8.95179
+2017-08-16 16:59:52,297000 INFO  [default] Total times spend:  53.3698
+2017-08-16 16:59:52,336000 INFO  [default] No : 1 二值化 times spend:  7.84865
+2017-08-16 16:59:52,350000 INFO  [default] No : 2 查找轮廓 times spend:  13.5166
+2017-08-16 16:59:52,370000 INFO  [default] No : 3 图像转换 times spend:  20.6457
+2017-08-16 16:59:52,380000 INFO  [default] No : 4 拟合 times spend:  9.33202
+2017-08-16 16:59:52,387000 INFO  [default] Total times spend:  51.343
+2017-08-16 16:59:52,425000 INFO  [default] No : 1 二值化 times spend:  6.7397
+2017-08-16 16:59:52,438000 INFO  [default] No : 2 查找轮廓 times spend:  13.0865
+2017-08-16 16:59:52,459000 INFO  [default] No : 3 图像转换 times spend:  20.5232
+2017-08-16 16:59:52,468000 INFO  [default] No : 4 拟合 times spend:  9.56105
+2017-08-16 16:59:52,476000 INFO  [default] Total times spend:  49.9105
+2017-08-16 16:59:52,515000 INFO  [default] No : 1 二值化 times spend:  7.52576
+2017-08-16 16:59:52,529000 INFO  [default] No : 2 查找轮廓 times spend:  14.1078
+2017-08-16 16:59:52,550000 INFO  [default] No : 3 图像转换 times spend:  20.5928
+2017-08-16 16:59:52,559000 INFO  [default] No : 4 拟合 times spend:  9.49279
+2017-08-16 16:59:52,567000 INFO  [default] Total times spend:  51.7192
+2017-08-16 16:59:52,606000 INFO  [default] No : 1 二值化 times spend:  7.64556
+2017-08-16 16:59:52,620000 INFO  [default] No : 2 查找轮廓 times spend:  14.3962
+2017-08-16 16:59:52,640000 INFO  [default] No : 3 图像转换 times spend:  20.06
+2017-08-16 16:59:52,650000 INFO  [default] No : 4 拟合 times spend:  9.33066
+2017-08-16 16:59:52,658000 INFO  [default] Total times spend:  51.4325
+2017-08-16 16:59:52,698000 INFO  [default] No : 1 二值化 times spend:  7.29161
+2017-08-16 16:59:52,711000 INFO  [default] No : 2 查找轮廓 times spend:  13.4941
+2017-08-16 16:59:52,732000 INFO  [default] No : 3 图像转换 times spend:  20.6225
+2017-08-16 16:59:52,741000 INFO  [default] No : 4 拟合 times spend:  9.70338
+2017-08-16 16:59:52,749000 INFO  [default] Total times spend:  51.1116
+2017-08-16 16:59:52,788000 INFO  [default] No : 1 二值化 times spend:  7.47115
+2017-08-16 16:59:52,801000 INFO  [default] No : 2 查找轮廓 times spend:  13.6548
+2017-08-16 16:59:52,820000 INFO  [default] No : 3 图像转换 times spend:  18.4057
+2017-08-16 16:59:52,830000 INFO  [default] No : 4 拟合 times spend:  10.5526
+2017-08-16 16:59:52,838000 INFO  [default] Total times spend:  50.0842
+2017-08-16 16:59:52,876000 INFO  [default] No : 1 二值化 times spend:  6.81616
+2017-08-16 16:59:52,890000 INFO  [default] No : 2 查找轮廓 times spend:  13.4736
+2017-08-16 16:59:52,910000 INFO  [default] No : 3 图像转换 times spend:  20.8444
+2017-08-16 16:59:52,920000 INFO  [default] No : 4 拟合 times spend:  9.73615
+2017-08-16 16:59:52,928000 INFO  [default] Total times spend:  50.8703
+2017-08-16 16:59:52,967000 INFO  [default] No : 1 二值化 times spend:  7.1783
+2017-08-16 16:59:52,980000 INFO  [default] No : 2 查找轮廓 times spend:  13.1176
+2017-08-16 16:59:53,000000 INFO  [default] No : 3 图像转换 times spend:  20.2382
+2017-08-16 16:59:53,009000 INFO  [default] No : 4 拟合 times spend:  9.50507
+2017-08-16 16:59:53,017000 INFO  [default] Total times spend:  50.0392
+2017-08-16 16:59:53,057000 INFO  [default] No : 1 二值化 times spend:  7.69813
+2017-08-16 16:59:53,070000 INFO  [default] No : 2 查找轮廓 times spend:  13.7091
+2017-08-16 16:59:53,089000 INFO  [default] No : 3 图像转换 times spend:  18.9791
+2017-08-16 16:59:53,098000 INFO  [default] No : 4 拟合 times spend:  9.16239
+2017-08-16 16:59:53,106000 INFO  [default] Total times spend:  49.5487
+2017-08-16 16:59:53,147000 INFO  [default] No : 1 二值化 times spend:  9.18491
+2017-08-16 16:59:53,163000 INFO  [default] No : 2 查找轮廓 times spend:  15.6963
+2017-08-16 16:59:53,183000 INFO  [default] No : 3 图像转换 times spend:  19.8447
+2017-08-16 16:59:53,193000 INFO  [default] No : 4 拟合 times spend:  10.0911
+2017-08-16 16:59:53,200000 INFO  [default] Total times spend:  54.817
+2017-08-16 16:59:53,242000 INFO  [default] No : 1 二值化 times spend:  9.73888
+2017-08-16 16:59:53,255000 INFO  [default] No : 2 查找轮廓 times spend:  13.1668
+2017-08-16 16:59:53,276000 INFO  [default] No : 3 图像转换 times spend:  21.2161
+2017-08-16 16:59:53,286000 INFO  [default] No : 4 拟合 times spend:  9.56788
+2017-08-16 16:59:53,294000 INFO  [default] Total times spend:  53.6896
+2017-08-16 16:59:53,337000 INFO  [default] No : 1 二值化 times spend:  9.81601
+2017-08-16 16:59:53,354000 INFO  [default] No : 2 查找轮廓 times spend:  17.609
+2017-08-16 16:59:53,375000 INFO  [default] No : 3 图像转换 times spend:  20.4198
+2017-08-16 16:59:53,384000 INFO  [default] No : 4 拟合 times spend:  9.64092
+2017-08-16 16:59:53,392000 INFO  [default] Total times spend:  57.4858
+2017-08-16 16:59:53,436000 INFO  [default] No : 1 二值化 times spend:  12.1527
+2017-08-16 16:59:53,450000 INFO  [default] No : 2 查找轮廓 times spend:  14.1996
+2017-08-16 16:59:53,470000 INFO  [default] No : 3 图像转换 times spend:  20.272
+2017-08-16 16:59:53,480000 INFO  [default] No : 4 拟合 times spend:  9.69962
+2017-08-16 16:59:53,487000 INFO  [default] Total times spend:  56.3239
+2017-08-16 16:59:53,532000 INFO  [default] No : 1 二值化 times spend:  11.7069
+2017-08-16 16:59:53,545000 INFO  [default] No : 2 查找轮廓 times spend:  12.9841
+2017-08-16 16:59:53,565000 INFO  [default] No : 3 图像转换 times spend:  20.2775
+2017-08-16 16:59:53,576000 INFO  [default] No : 4 拟合 times spend:  10.7615
+2017-08-16 16:59:53,583000 INFO  [default] Total times spend:  55.73
+2017-08-16 16:59:53,585000 INFO  [default] average : 51.4815

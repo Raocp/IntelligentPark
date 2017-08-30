@@ -1,0 +1,7 @@
+2017-08-21 13:16:30,604103 INFO  [default] My first info log using default logger
+2017-08-21 13:16:30,666503 INFO  [default] No : 1 二值化 times spend:  8.49101
+2017-08-21 13:16:30,666503 INFO  [default] No : 2 查找轮廓 times spend:  5.8253
+2017-08-21 13:16:30,682103 INFO  [default] No : 3 图像转换 times spend:  10.8587
+2017-08-21 13:16:30,682103 INFO  [default] No : 4 拟合 times spend:  1.35538
+2017-08-21 13:16:30,697703 INFO  [default] Total times spend:  26.5304
+2017-08-21 13:16:30,697703 INFO  [default] average : 26.5304

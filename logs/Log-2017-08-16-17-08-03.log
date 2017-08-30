@@ -1,0 +1,812 @@
+2017-08-16 17:08:03,960000 INFO  [default] My first info log using default logger
+2017-08-16 17:08:04,006000 INFO  [default] No : 1 二值化 times spend:  8.83336
+2017-08-16 17:08:04,020000 INFO  [default] No : 2 查找轮廓 times spend:  13.9095
+2017-08-16 17:08:04,030000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,035000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,038000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,049000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,058000 INFO  [default] No : 3 图像转换 times spend:  38.1039
+2017-08-16 17:08:04,067000 INFO  [default] No : 4 拟合 times spend:  9.47231
+2017-08-16 17:08:04,075000 INFO  [default] Total times spend:  70.319
+2017-08-16 17:08:04,113000 INFO  [default] No : 1 二值化 times spend:  6.32466
+2017-08-16 17:08:04,128000 INFO  [default] No : 2 查找轮廓 times spend:  15.0092
+2017-08-16 17:08:04,137000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,142000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,145000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,154000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,157000 INFO  [default] No : 3 图像转换 times spend:  29.0043
+2017-08-16 17:08:04,167000 INFO  [default] No : 4 拟合 times spend:  10.0433
+2017-08-16 17:08:04,176000 INFO  [default] Total times spend:  60.3815
+2017-08-16 17:08:04,214000 INFO  [default] No : 1 二值化 times spend:  6.03897
+2017-08-16 17:08:04,230000 INFO  [default] No : 2 查找轮廓 times spend:  16.5588
+2017-08-16 17:08:04,240000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,245000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,248000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,259000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,264000 INFO  [default] No : 3 图像转换 times spend:  33.6968
+2017-08-16 17:08:04,274000 INFO  [default] No : 4 拟合 times spend:  10.3208
+2017-08-16 17:08:04,282000 INFO  [default] Total times spend:  66.6154
+2017-08-16 17:08:04,320000 INFO  [default] No : 1 二值化 times spend:  5.30718
+2017-08-16 17:08:04,334000 INFO  [default] No : 2 查找轮廓 times spend:  14.1897
+2017-08-16 17:08:04,343000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,347000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,349000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,359000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,363000 INFO  [default] No : 3 图像转换 times spend:  29.0395
+2017-08-16 17:08:04,373000 INFO  [default] No : 4 拟合 times spend:  10.4877
+2017-08-16 17:08:04,381000 INFO  [default] Total times spend:  59.0241
+2017-08-16 17:08:04,418000 INFO  [default] No : 1 二值化 times spend:  5.32868
+2017-08-16 17:08:04,432000 INFO  [default] No : 2 查找轮廓 times spend:  14.3088
+2017-08-16 17:08:04,442000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,447000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,450000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,460000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,464000 INFO  [default] No : 3 图像转换 times spend:  32.0281
+2017-08-16 17:08:04,477000 INFO  [default] No : 4 拟合 times spend:  12.4305
+2017-08-16 17:08:04,484000 INFO  [default] Total times spend:  64.0961
+2017-08-16 17:08:04,523000 INFO  [default] No : 1 二值化 times spend:  6.0219
+2017-08-16 17:08:04,536000 INFO  [default] No : 2 查找轮廓 times spend:  13.6241
+2017-08-16 17:08:04,545000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,551000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,555000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,565000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,570000 INFO  [default] No : 3 图像转换 times spend:  33.7872
+2017-08-16 17:08:04,584000 INFO  [default] No : 4 拟合 times spend:  13.8409
+2017-08-16 17:08:04,592000 INFO  [default] Total times spend:  67.2741
+2017-08-16 17:08:04,634000 INFO  [default] No : 1 二值化 times spend:  6.72366
+2017-08-16 17:08:04,648000 INFO  [default] No : 2 查找轮廓 times spend:  13.8364
+2017-08-16 17:08:04,657000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,661000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,664000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,672000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,676000 INFO  [default] No : 3 图像转换 times spend:  28.6859
+2017-08-16 17:08:04,687000 INFO  [default] No : 4 拟合 times spend:  10.227
+2017-08-16 17:08:04,694000 INFO  [default] Total times spend:  59.4729
+2017-08-16 17:08:04,731000 INFO  [default] No : 1 二值化 times spend:  5.51539
+2017-08-16 17:08:04,745000 INFO  [default] No : 2 查找轮廓 times spend:  14.7102
+2017-08-16 17:08:04,755000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,761000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,764000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,774000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,779000 INFO  [default] No : 3 图像转换 times spend:  33.7596
+2017-08-16 17:08:04,793000 INFO  [default] No : 4 拟合 times spend:  14.0378
+2017-08-16 17:08:04,801000 INFO  [default] Total times spend:  68.023
+2017-08-16 17:08:04,838000 INFO  [default] No : 1 二值化 times spend:  5.1942
+2017-08-16 17:08:04,852000 INFO  [default] No : 2 查找轮廓 times spend:  13.9729
+2017-08-16 17:08:04,860000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,865000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,868000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,877000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,880000 INFO  [default] No : 3 图像转换 times spend:  28.7791
+2017-08-16 17:08:04,891000 INFO  [default] No : 4 拟合 times spend:  10.1328
+2017-08-16 17:08:04,898000 INFO  [default] Total times spend:  58.079
+2017-08-16 17:08:04,935000 INFO  [default] No : 1 二值化 times spend:  5.25837
+2017-08-16 17:08:04,950000 INFO  [default] No : 2 查找轮廓 times spend:  14.7177
+2017-08-16 17:08:04,960000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:04,964000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:04,966000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:04,975000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:04,979000 INFO  [default] No : 3 图像转换 times spend:  29.204
+2017-08-16 17:08:04,988000 INFO  [default] No : 4 拟合 times spend:  8.99036
+2017-08-16 17:08:04,996000 INFO  [default] Total times spend:  58.1704
+2017-08-16 17:08:05,034000 INFO  [default] No : 1 二值化 times spend:  5.76079
+2017-08-16 17:08:05,048000 INFO  [default] No : 2 查找轮廓 times spend:  14.6709
+2017-08-16 17:08:05,058000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,063000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,066000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,075000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,079000 INFO  [default] No : 3 图像转换 times spend:  30.2614
+2017-08-16 17:08:05,089000 INFO  [default] No : 4 拟合 times spend:  10.498
+2017-08-16 17:08:05,097000 INFO  [default] Total times spend:  61.1911
+2017-08-16 17:08:05,134000 INFO  [default] No : 1 二值化 times spend:  5.55634
+2017-08-16 17:08:05,148000 INFO  [default] No : 2 查找轮廓 times spend:  14.8897
+2017-08-16 17:08:05,157000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,162000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,165000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,175000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,178000 INFO  [default] No : 3 图像转换 times spend:  29.7525
+2017-08-16 17:08:05,188000 INFO  [default] No : 4 拟合 times spend:  10.0648
+2017-08-16 17:08:05,196000 INFO  [default] Total times spend:  60.2634
+2017-08-16 17:08:05,233000 INFO  [default] No : 1 二值化 times spend:  5.19386
+2017-08-16 17:08:05,249000 INFO  [default] No : 2 查找轮廓 times spend:  16.2103
+2017-08-16 17:08:05,259000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,264000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,266000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,275000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,278000 INFO  [default] No : 3 图像转换 times spend:  29.1327
+2017-08-16 17:08:05,288000 INFO  [default] No : 4 拟合 times spend:  9.57573
+2017-08-16 17:08:05,295000 INFO  [default] Total times spend:  60.1126
+2017-08-16 17:08:05,333000 INFO  [default] No : 1 二值化 times spend:  5.3007
+2017-08-16 17:08:05,347000 INFO  [default] No : 2 查找轮廓 times spend:  14.0105
+2017-08-16 17:08:05,355000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,360000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,364000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,373000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,377000 INFO  [default] No : 3 图像转换 times spend:  30.8096
+2017-08-16 17:08:05,387000 INFO  [default] No : 4 拟合 times spend:  9.58016
+2017-08-16 17:08:05,395000 INFO  [default] Total times spend:  59.7009
+2017-08-16 17:08:05,432000 INFO  [default] No : 1 二值化 times spend:  5.27407
+2017-08-16 17:08:05,447000 INFO  [default] No : 2 查找轮廓 times spend:  15.5174
+2017-08-16 17:08:05,456000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,461000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,464000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,472000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,477000 INFO  [default] No : 3 图像转换 times spend:  29.7549
+2017-08-16 17:08:05,486000 INFO  [default] No : 4 拟合 times spend:  9.59211
+2017-08-16 17:08:05,494000 INFO  [default] Total times spend:  60.1385
+2017-08-16 17:08:05,532000 INFO  [default] No : 1 二值化 times spend:  5.14744
+2017-08-16 17:08:05,546000 INFO  [default] No : 2 查找轮廓 times spend:  14.5665
+2017-08-16 17:08:05,555000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,559000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,562000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,571000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,575000 INFO  [default] No : 3 图像转换 times spend:  28.9449
+2017-08-16 17:08:05,585000 INFO  [default] No : 4 拟合 times spend:  9.63614
+2017-08-16 17:08:05,592000 INFO  [default] Total times spend:  58.295
+2017-08-16 17:08:05,629000 INFO  [default] No : 1 二值化 times spend:  5.24199
+2017-08-16 17:08:05,644000 INFO  [default] No : 2 查找轮廓 times spend:  14.6143
+2017-08-16 17:08:05,653000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,658000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,661000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,670000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,675000 INFO  [default] No : 3 图像转换 times spend:  31.3256
+2017-08-16 17:08:05,685000 INFO  [default] No : 4 拟合 times spend:  9.65184
+2017-08-16 17:08:05,692000 INFO  [default] Total times spend:  60.8338
+2017-08-16 17:08:05,730000 INFO  [default] No : 1 二值化 times spend:  5.57034
+2017-08-16 17:08:05,744000 INFO  [default] No : 2 查找轮廓 times spend:  14.4167
+2017-08-16 17:08:05,753000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,758000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,761000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,769000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,773000 INFO  [default] No : 3 图像转换 times spend:  28.7111
+2017-08-16 17:08:05,783000 INFO  [default] No : 4 拟合 times spend:  9.67846
+2017-08-16 17:08:05,790000 INFO  [default] Total times spend:  58.3766
+2017-08-16 17:08:05,828000 INFO  [default] No : 1 二值化 times spend:  5.12287
+2017-08-16 17:08:05,843000 INFO  [default] No : 2 查找轮廓 times spend:  15.371
+2017-08-16 17:08:05,852000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,856000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,860000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,869000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,873000 INFO  [default] No : 3 图像转换 times spend:  29.5962
+2017-08-16 17:08:05,883000 INFO  [default] No : 4 拟合 times spend:  9.99111
+2017-08-16 17:08:05,890000 INFO  [default] Total times spend:  60.0812
+2017-08-16 17:08:05,928000 INFO  [default] No : 1 二值化 times spend:  6.0714
+2017-08-16 17:08:05,941000 INFO  [default] No : 2 查找轮廓 times spend:  13.3418
+2017-08-16 17:08:05,950000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:05,954000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:05,959000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:05,968000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:05,972000 INFO  [default] No : 3 图像转换 times spend:  30.5877
+2017-08-16 17:08:05,982000 INFO  [default] No : 4 拟合 times spend:  10.4772
+2017-08-16 17:08:05,990000 INFO  [default] Total times spend:  60.4781
+2017-08-16 17:08:06,028000 INFO  [default] No : 1 二值化 times spend:  5.28261
+2017-08-16 17:08:06,042000 INFO  [default] No : 2 查找轮廓 times spend:  14.4139
+2017-08-16 17:08:06,051000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,057000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,060000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,069000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,073000 INFO  [default] No : 3 图像转换 times spend:  31.2564
+2017-08-16 17:08:06,083000 INFO  [default] No : 4 拟合 times spend:  9.87609
+2017-08-16 17:08:06,092000 INFO  [default] Total times spend:  60.829
+2017-08-16 17:08:06,130000 INFO  [default] No : 1 二值化 times spend:  5.15802
+2017-08-16 17:08:06,144000 INFO  [default] No : 2 查找轮廓 times spend:  14.3999
+2017-08-16 17:08:06,153000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,159000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,162000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,170000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,175000 INFO  [default] No : 3 图像转换 times spend:  30.5072
+2017-08-16 17:08:06,184000 INFO  [default] No : 4 拟合 times spend:  9.46855
+2017-08-16 17:08:06,192000 INFO  [default] Total times spend:  59.5337
+2017-08-16 17:08:06,230000 INFO  [default] No : 1 二值化 times spend:  5.10785
+2017-08-16 17:08:06,244000 INFO  [default] No : 2 查找轮廓 times spend:  14.4324
+2017-08-16 17:08:06,253000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,257000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,261000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,269000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,273000 INFO  [default] No : 3 图像转换 times spend:  28.8221
+2017-08-16 17:08:06,283000 INFO  [default] No : 4 拟合 times spend:  9.38425
+2017-08-16 17:08:06,290000 INFO  [default] Total times spend:  57.7465
+2017-08-16 17:08:06,327000 INFO  [default] No : 1 二值化 times spend:  5.40753
+2017-08-16 17:08:06,341000 INFO  [default] No : 2 查找轮廓 times spend:  14.6791
+2017-08-16 17:08:06,350000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,355000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,358000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,366000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,370000 INFO  [default] No : 3 图像转换 times spend:  28.28
+2017-08-16 17:08:06,378000 INFO  [default] No : 4 拟合 times spend:  8.7057
+2017-08-16 17:08:06,385000 INFO  [default] Total times spend:  57.0724
+2017-08-16 17:08:06,422000 INFO  [default] No : 1 二值化 times spend:  5.62597
+2017-08-16 17:08:06,436000 INFO  [default] No : 2 查找轮廓 times spend:  13.7972
+2017-08-16 17:08:06,445000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,451000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,454000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,463000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,466000 INFO  [default] No : 3 图像转换 times spend:  29.6545
+2017-08-16 17:08:06,475000 INFO  [default] No : 4 拟合 times spend:  9.15044
+2017-08-16 17:08:06,482000 INFO  [default] Total times spend:  58.2281
+2017-08-16 17:08:06,519000 INFO  [default] No : 1 二值化 times spend:  5.50685
+2017-08-16 17:08:06,533000 INFO  [default] No : 2 查找轮廓 times spend:  13.5767
+2017-08-16 17:08:06,542000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,546000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,549000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,558000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,562000 INFO  [default] No : 3 图像转换 times spend:  29.1644
+2017-08-16 17:08:06,572000 INFO  [default] No : 4 拟合 times spend:  9.39483
+2017-08-16 17:08:06,580000 INFO  [default] Total times spend:  57.6428
+2017-08-16 17:08:06,618000 INFO  [default] No : 1 二值化 times spend:  6.04546
+2017-08-16 17:08:06,633000 INFO  [default] No : 2 查找轮廓 times spend:  14.5225
+2017-08-16 17:08:06,641000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,645000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,647000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,656000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,661000 INFO  [default] No : 3 图像转换 times spend:  28.1541
+2017-08-16 17:08:06,670000 INFO  [default] No : 4 拟合 times spend:  9.80714
+2017-08-16 17:08:06,679000 INFO  [default] Total times spend:  58.5292
+2017-08-16 17:08:06,716000 INFO  [default] No : 1 二值化 times spend:  5.10546
+2017-08-16 17:08:06,730000 INFO  [default] No : 2 查找轮廓 times spend:  14.3337
+2017-08-16 17:08:06,739000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,743000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,745000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,754000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,758000 INFO  [default] No : 3 图像转换 times spend:  27.2585
+2017-08-16 17:08:06,767000 INFO  [default] No : 4 拟合 times spend:  9.11836
+2017-08-16 17:08:06,774000 INFO  [default] Total times spend:  55.816
+2017-08-16 17:08:06,811000 INFO  [default] No : 1 二值化 times spend:  5.44507
+2017-08-16 17:08:06,826000 INFO  [default] No : 2 查找轮廓 times spend:  14.8102
+2017-08-16 17:08:06,834000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,839000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,843000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,851000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,854000 INFO  [default] No : 3 图像转换 times spend:  28.7545
+2017-08-16 17:08:06,864000 INFO  [default] No : 4 拟合 times spend:  9.32554
+2017-08-16 17:08:06,871000 INFO  [default] Total times spend:  58.3353
+2017-08-16 17:08:06,908000 INFO  [default] No : 1 二值化 times spend:  5.71745
+2017-08-16 17:08:06,922000 INFO  [default] No : 2 查找轮廓 times spend:  14.2016
+2017-08-16 17:08:06,931000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:06,935000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:06,938000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:06,946000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:06,950000 INFO  [default] No : 3 图像转换 times spend:  27.5353
+2017-08-16 17:08:06,959000 INFO  [default] No : 4 拟合 times spend:  9.28356
+2017-08-16 17:08:06,967000 INFO  [default] Total times spend:  56.7379
+2017-08-16 17:08:07,004000 INFO  [default] No : 1 二值化 times spend:  5.90347
+2017-08-16 17:08:07,019000 INFO  [default] No : 2 查找轮廓 times spend:  14.3508
+2017-08-16 17:08:07,027000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,031000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,035000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,044000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,048000 INFO  [default] No : 3 图像转换 times spend:  29.5583
+2017-08-16 17:08:07,058000 INFO  [default] No : 4 拟合 times spend:  9.90885
+2017-08-16 17:08:07,066000 INFO  [default] Total times spend:  59.7214
+2017-08-16 17:08:07,104000 INFO  [default] No : 1 二值化 times spend:  5.14164
+2017-08-16 17:08:07,118000 INFO  [default] No : 2 查找轮廓 times spend:  14.3221
+2017-08-16 17:08:07,126000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,130000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,133000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,141000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,145000 INFO  [default] No : 3 图像转换 times spend:  27.6575
+2017-08-16 17:08:07,155000 INFO  [default] No : 4 拟合 times spend:  9.49893
+2017-08-16 17:08:07,163000 INFO  [default] Total times spend:  56.6202
+2017-08-16 17:08:07,200000 INFO  [default] No : 1 二值化 times spend:  5.43518
+2017-08-16 17:08:07,214000 INFO  [default] No : 2 查找轮廓 times spend:  14.3446
+2017-08-16 17:08:07,223000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,227000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,229000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,237000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,242000 INFO  [default] No : 3 图像转换 times spend:  27.3578
+2017-08-16 17:08:07,251000 INFO  [default] No : 4 拟合 times spend:  9.32178
+2017-08-16 17:08:07,259000 INFO  [default] Total times spend:  56.4594
+2017-08-16 17:08:07,296000 INFO  [default] No : 1 二值化 times spend:  5.15393
+2017-08-16 17:08:07,311000 INFO  [default] No : 2 查找轮廓 times spend:  14.7382
+2017-08-16 17:08:07,319000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,324000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,327000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,336000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,339000 INFO  [default] No : 3 图像转换 times spend:  28.7685
+2017-08-16 17:08:07,349000 INFO  [default] No : 4 拟合 times spend:  9.06204
+2017-08-16 17:08:07,357000 INFO  [default] Total times spend:  57.7226
+2017-08-16 17:08:07,394000 INFO  [default] No : 1 二值化 times spend:  5.93623
+2017-08-16 17:08:07,409000 INFO  [default] No : 2 查找轮廓 times spend:  14.4453
+2017-08-16 17:08:07,417000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,422000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,425000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,433000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,436000 INFO  [default] No : 3 图像转换 times spend:  27.5701
+2017-08-16 17:08:07,446000 INFO  [default] No : 4 拟合 times spend:  10.1898
+2017-08-16 17:08:07,454000 INFO  [default] Total times spend:  58.1414
+2017-08-16 17:08:07,492000 INFO  [default] No : 1 二值化 times spend:  5.48603
+2017-08-16 17:08:07,506000 INFO  [default] No : 2 查找轮廓 times spend:  14.2835
+2017-08-16 17:08:07,515000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,521000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,524000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,532000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,535000 INFO  [default] No : 3 图像转换 times spend:  28.9333
+2017-08-16 17:08:07,545000 INFO  [default] No : 4 拟合 times spend:  10.3444
+2017-08-16 17:08:07,554000 INFO  [default] Total times spend:  59.0473
+2017-08-16 17:08:07,592000 INFO  [default] No : 1 二值化 times spend:  6.87964
+2017-08-16 17:08:07,606000 INFO  [default] No : 2 查找轮廓 times spend:  14.1822
+2017-08-16 17:08:07,615000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,619000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,623000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,631000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,635000 INFO  [default] No : 3 图像转换 times spend:  28.5159
+2017-08-16 17:08:07,644000 INFO  [default] No : 4 拟合 times spend:  9.12928
+2017-08-16 17:08:07,651000 INFO  [default] Total times spend:  58.707
+2017-08-16 17:08:07,688000 INFO  [default] No : 1 二值化 times spend:  5.88845
+2017-08-16 17:08:07,702000 INFO  [default] No : 2 查找轮廓 times spend:  13.7272
+2017-08-16 17:08:07,710000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,714000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,717000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,725000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,729000 INFO  [default] No : 3 图像转换 times spend:  27.3721
+2017-08-16 17:08:07,739000 INFO  [default] No : 4 拟合 times spend:  9.33885
+2017-08-16 17:08:07,746000 INFO  [default] Total times spend:  56.3266
+2017-08-16 17:08:07,784000 INFO  [default] No : 1 二值化 times spend:  6.18881
+2017-08-16 17:08:07,798000 INFO  [default] No : 2 查找轮廓 times spend:  13.5531
+2017-08-16 17:08:07,807000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,811000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,814000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,821000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,826000 INFO  [default] No : 3 图像转换 times spend:  27.8234
+2017-08-16 17:08:07,835000 INFO  [default] No : 4 拟合 times spend:  9.2112
+2017-08-16 17:08:07,842000 INFO  [default] Total times spend:  56.7765
+2017-08-16 17:08:07,879000 INFO  [default] No : 1 二值化 times spend:  5.14847
+2017-08-16 17:08:07,894000 INFO  [default] No : 2 查找轮廓 times spend:  14.8153
+2017-08-16 17:08:07,902000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:07,908000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:07,911000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:07,919000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:07,923000 INFO  [default] No : 3 图像转换 times spend:  29.331
+2017-08-16 17:08:07,933000 INFO  [default] No : 4 拟合 times spend:  9.10505
+2017-08-16 17:08:07,940000 INFO  [default] Total times spend:  58.3998
+2017-08-16 17:08:07,978000 INFO  [default] No : 1 二值化 times spend:  6.04477
+2017-08-16 17:08:07,993000 INFO  [default] No : 2 查找轮廓 times spend:  14.4996
+2017-08-16 17:08:08,002000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,008000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,011000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,020000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,024000 INFO  [default] No : 3 图像转换 times spend:  31.5646
+2017-08-16 17:08:08,034000 INFO  [default] No : 4 拟合 times spend:  9.94503
+2017-08-16 17:08:08,042000 INFO  [default] Total times spend:  62.054
+2017-08-16 17:08:08,080000 INFO  [default] No : 1 二值化 times spend:  6.0516
+2017-08-16 17:08:08,094000 INFO  [default] No : 2 查找轮廓 times spend:  14.1149
+2017-08-16 17:08:08,103000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,108000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,112000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,120000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,124000 INFO  [default] No : 3 图像转换 times spend:  29.7283
+2017-08-16 17:08:08,133000 INFO  [default] No : 4 拟合 times spend:  9.36854
+2017-08-16 17:08:08,141000 INFO  [default] Total times spend:  59.2634
+2017-08-16 17:08:08,179000 INFO  [default] No : 1 二值化 times spend:  6.59225
+2017-08-16 17:08:08,194000 INFO  [default] No : 2 查找轮廓 times spend:  14.7464
+2017-08-16 17:08:08,202000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,207000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,211000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,219000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,222000 INFO  [default] No : 3 图像转换 times spend:  27.8961
+2017-08-16 17:08:08,232000 INFO  [default] No : 4 拟合 times spend:  9.87609
+2017-08-16 17:08:08,239000 INFO  [default] Total times spend:  59.1108
+2017-08-16 17:08:08,278000 INFO  [default] No : 1 二值化 times spend:  7.63908
+2017-08-16 17:08:08,293000 INFO  [default] No : 2 查找轮廓 times spend:  15.1041
+2017-08-16 17:08:08,302000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,307000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,310000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,319000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,323000 INFO  [default] No : 3 图像转换 times spend:  29.8744
+2017-08-16 17:08:08,332000 INFO  [default] No : 4 拟合 times spend:  9.26547
+2017-08-16 17:08:08,340000 INFO  [default] Total times spend:  61.883
+2017-08-16 17:08:08,386000 INFO  [default] No : 1 二值化 times spend:  13.1002
+2017-08-16 17:08:08,403000 INFO  [default] No : 2 查找轮廓 times spend:  16.9151
+2017-08-16 17:08:08,414000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,419000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,421000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,432000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,436000 INFO  [default] No : 3 图像转换 times spend:  33.5343
+2017-08-16 17:08:08,447000 INFO  [default] No : 4 拟合 times spend:  10.9779
+2017-08-16 17:08:08,455000 INFO  [default] Total times spend:  74.5275
+2017-08-16 17:08:08,497000 INFO  [default] No : 1 二值化 times spend:  8.6545
+2017-08-16 17:08:08,510000 INFO  [default] No : 2 查找轮廓 times spend:  13.4832
+2017-08-16 17:08:08,518000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,523000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,528000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,536000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,540000 INFO  [default] No : 3 图像转换 times spend:  30.1143
+2017-08-16 17:08:08,550000 INFO  [default] No : 4 拟合 times spend:  10.0573
+2017-08-16 17:08:08,558000 INFO  [default] Total times spend:  62.3093
+2017-08-16 17:08:08,599000 INFO  [default] No : 1 二值化 times spend:  7.74079
+2017-08-16 17:08:08,612000 INFO  [default] No : 2 查找轮廓 times spend:  12.8367
+2017-08-16 17:08:08,620000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,626000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,630000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,638000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,642000 INFO  [default] No : 3 图像转换 times spend:  30.5973
+2017-08-16 17:08:08,652000 INFO  [default] No : 4 拟合 times spend:  9.33202
+2017-08-16 17:08:08,660000 INFO  [default] Total times spend:  60.5068
+2017-08-16 17:08:08,701000 INFO  [default] No : 1 二值化 times spend:  6.99091
+2017-08-16 17:08:08,714000 INFO  [default] No : 2 查找轮廓 times spend:  13.691
+2017-08-16 17:08:08,722000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,728000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,731000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,739000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,745000 INFO  [default] No : 3 图像转换 times spend:  30.7126
+2017-08-16 17:08:08,755000 INFO  [default] No : 4 拟合 times spend:  10.1351
+2017-08-16 17:08:08,763000 INFO  [default] Total times spend:  61.5297
+2017-08-16 17:08:08,803000 INFO  [default] No : 1 二值化 times spend:  6.40623
+2017-08-16 17:08:08,816000 INFO  [default] No : 2 查找轮廓 times spend:  13.4473
+2017-08-16 17:08:08,825000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,829000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,832000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,840000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,844000 INFO  [default] No : 3 图像转换 times spend:  27.7653
+2017-08-16 17:08:08,853000 INFO  [default] No : 4 拟合 times spend:  9.09412
+2017-08-16 17:08:08,861000 INFO  [default] Total times spend:  56.713
+2017-08-16 17:08:08,899000 INFO  [default] No : 1 二值化 times spend:  6.21543
+2017-08-16 17:08:08,912000 INFO  [default] No : 2 查找轮廓 times spend:  13.05
+2017-08-16 17:08:08,920000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:08,925000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:08,928000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:08,936000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:08,940000 INFO  [default] No : 3 图像转换 times spend:  27.4138
+2017-08-16 17:08:08,949000 INFO  [default] No : 4 拟合 times spend:  9.47743
+2017-08-16 17:08:08,957000 INFO  [default] Total times spend:  56.1567
+2017-08-16 17:08:08,997000 INFO  [default] No : 1 二值化 times spend:  7.77458
+2017-08-16 17:08:09,012000 INFO  [default] No : 2 查找轮廓 times spend:  14.7266
+2017-08-16 17:08:09,020000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,025000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,028000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,036000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,040000 INFO  [default] No : 3 图像转换 times spend:  28.1756
+2017-08-16 17:08:09,050000 INFO  [default] No : 4 拟合 times spend:  10.4365
+2017-08-16 17:08:09,058000 INFO  [default] Total times spend:  61.1133
+2017-08-16 17:08:09,097000 INFO  [default] No : 1 二值化 times spend:  6.62297
+2017-08-16 17:08:09,111000 INFO  [default] No : 2 查找轮廓 times spend:  14.8232
+2017-08-16 17:08:09,120000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,125000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,128000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,136000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,139000 INFO  [default] No : 3 图像转换 times spend:  27.7148
+2017-08-16 17:08:09,148000 INFO  [default] No : 4 拟合 times spend:  9.33919
+2017-08-16 17:08:09,156000 INFO  [default] Total times spend:  58.5002
+2017-08-16 17:08:09,196000 INFO  [default] No : 1 二值化 times spend:  7.37182
+2017-08-16 17:08:09,209000 INFO  [default] No : 2 查找轮廓 times spend:  13.1558
+2017-08-16 17:08:09,217000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,221000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,224000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,232000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,235000 INFO  [default] No : 3 图像转换 times spend:  26.6325
+2017-08-16 17:08:09,245000 INFO  [default] No : 4 拟合 times spend:  9.58801
+2017-08-16 17:08:09,252000 INFO  [default] Total times spend:  56.7482
+2017-08-16 17:08:09,292000 INFO  [default] No : 1 二值化 times spend:  7.01685
+2017-08-16 17:08:09,305000 INFO  [default] No : 2 查找轮廓 times spend:  13.4715
+2017-08-16 17:08:09,314000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,317000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,320000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,329000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,333000 INFO  [default] No : 3 图像转换 times spend:  27.6909
+2017-08-16 17:08:09,343000 INFO  [default] No : 4 拟合 times spend:  9.95698
+2017-08-16 17:08:09,350000 INFO  [default] Total times spend:  58.1363
+2017-08-16 17:08:09,387000 INFO  [default] No : 1 二值化 times spend:  6.22499
+2017-08-16 17:08:09,400000 INFO  [default] No : 2 查找轮廓 times spend:  13.0882
+2017-08-16 17:08:09,409000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,416000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,419000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,428000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,432000 INFO  [default] No : 3 图像转换 times spend:  31.7799
+2017-08-16 17:08:09,441000 INFO  [default] No : 4 拟合 times spend:  9.24942
+2017-08-16 17:08:09,448000 INFO  [default] Total times spend:  60.3426
+2017-08-16 17:08:09,486000 INFO  [default] No : 1 二值化 times spend:  5.53279
+2017-08-16 17:08:09,499000 INFO  [default] No : 2 查找轮廓 times spend:  13.4282
+2017-08-16 17:08:09,508000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,514000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,516000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,525000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,529000 INFO  [default] No : 3 图像转换 times spend:  30.3208
+2017-08-16 17:08:09,539000 INFO  [default] No : 4 拟合 times spend:  9.43783
+2017-08-16 17:08:09,547000 INFO  [default] Total times spend:  58.7196
+2017-08-16 17:08:09,585000 INFO  [default] No : 1 二值化 times spend:  5.99153
+2017-08-16 17:08:09,598000 INFO  [default] No : 2 查找轮廓 times spend:  13.8194
+2017-08-16 17:08:09,607000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,612000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,615000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,624000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,628000 INFO  [default] No : 3 图像转换 times spend:  29.4132
+2017-08-16 17:08:09,637000 INFO  [default] No : 4 拟合 times spend:  9.56173
+2017-08-16 17:08:09,645000 INFO  [default] Total times spend:  58.7858
+2017-08-16 17:08:09,683000 INFO  [default] No : 1 二值化 times spend:  7.08853
+2017-08-16 17:08:09,696000 INFO  [default] No : 2 查找轮廓 times spend:  13.2825
+2017-08-16 17:08:09,705000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,709000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,712000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,720000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,723000 INFO  [default] No : 3 图像转换 times spend:  26.8004
+2017-08-16 17:08:09,732000 INFO  [default] No : 4 拟合 times spend:  9.11563
+2017-08-16 17:08:09,740000 INFO  [default] Total times spend:  56.287
+2017-08-16 17:08:09,780000 INFO  [default] No : 1 二值化 times spend:  8.78489
+2017-08-16 17:08:09,793000 INFO  [default] No : 2 查找轮廓 times spend:  13.6405
+2017-08-16 17:08:09,802000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,807000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,809000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,818000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,821000 INFO  [default] No : 3 图像转换 times spend:  28.1309
+2017-08-16 17:08:09,831000 INFO  [default] No : 4 拟合 times spend:  9.28048
+2017-08-16 17:08:09,838000 INFO  [default] Total times spend:  59.8368
+2017-08-16 17:08:09,877000 INFO  [default] No : 1 二值化 times spend:  7.17215
+2017-08-16 17:08:09,890000 INFO  [default] No : 2 查找轮廓 times spend:  13.1715
+2017-08-16 17:08:09,898000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,903000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:09,905000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:09,914000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:09,918000 INFO  [default] No : 3 图像转换 times spend:  27.7773
+2017-08-16 17:08:09,927000 INFO  [default] No : 4 拟合 times spend:  9.21836
+2017-08-16 17:08:09,934000 INFO  [default] Total times spend:  57.3393
+2017-08-16 17:08:09,973000 INFO  [default] No : 1 二值化 times spend:  7.00593
+2017-08-16 17:08:09,985000 INFO  [default] No : 2 查找轮廓 times spend:  12.6063
+2017-08-16 17:08:09,993000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:09,997000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,000000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,009000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,013000 INFO  [default] No : 3 图像转换 times spend:  28.3801
+2017-08-16 17:08:10,023000 INFO  [default] No : 4 拟合 times spend:  9.31837
+2017-08-16 17:08:10,030000 INFO  [default] Total times spend:  57.3107
+2017-08-16 17:08:10,069000 INFO  [default] No : 1 二值化 times spend:  6.60966
+2017-08-16 17:08:10,082000 INFO  [default] No : 2 查找轮廓 times spend:  13.2244
+2017-08-16 17:08:10,090000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,096000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,099000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,108000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,112000 INFO  [default] No : 3 图像转换 times spend:  29.858
+2017-08-16 17:08:10,121000 INFO  [default] No : 4 拟合 times spend:  8.86442
+2017-08-16 17:08:10,130000 INFO  [default] Total times spend:  58.5565
+2017-08-16 17:08:10,168000 INFO  [default] No : 1 二值化 times spend:  6.46221
+2017-08-16 17:08:10,181000 INFO  [default] No : 2 查找轮廓 times spend:  12.9118
+2017-08-16 17:08:10,190000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,194000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,196000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,205000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,209000 INFO  [default] No : 3 图像转换 times spend:  27.9077
+2017-08-16 17:08:10,219000 INFO  [default] No : 4 拟合 times spend:  9.27605
+2017-08-16 17:08:10,226000 INFO  [default] Total times spend:  56.5577
+2017-08-16 17:08:10,264000 INFO  [default] No : 1 二值化 times spend:  6.73936
+2017-08-16 17:08:10,277000 INFO  [default] No : 2 查找轮廓 times spend:  13.3828
+2017-08-16 17:08:10,285000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,290000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,293000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,301000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,304000 INFO  [default] No : 3 图像转换 times spend:  27.2203
+2017-08-16 17:08:10,314000 INFO  [default] No : 4 拟合 times spend:  9.49347
+2017-08-16 17:08:10,321000 INFO  [default] Total times spend:  56.8359
+2017-08-16 17:08:10,359000 INFO  [default] No : 1 二值化 times spend:  6.00757
+2017-08-16 17:08:10,375000 INFO  [default] No : 2 查找轮廓 times spend:  16.3775
+2017-08-16 17:08:10,384000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,388000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,392000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,400000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,403000 INFO  [default] No : 3 图像转换 times spend:  28.2114
+2017-08-16 17:08:10,413000 INFO  [default] No : 4 拟合 times spend:  9.26376
+2017-08-16 17:08:10,420000 INFO  [default] Total times spend:  59.8603
+2017-08-16 17:08:10,459000 INFO  [default] No : 1 二值化 times spend:  6.76598
+2017-08-16 17:08:10,472000 INFO  [default] No : 2 查找轮廓 times spend:  12.9015
+2017-08-16 17:08:10,480000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,484000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,487000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,496000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,500000 INFO  [default] No : 3 图像转换 times spend:  28.1094
+2017-08-16 17:08:10,509000 INFO  [default] No : 4 拟合 times spend:  9.24601
+2017-08-16 17:08:10,516000 INFO  [default] Total times spend:  57.0229
+2017-08-16 17:08:10,554000 INFO  [default] No : 1 二值化 times spend:  6.65744
+2017-08-16 17:08:10,569000 INFO  [default] No : 2 查找轮廓 times spend:  15.171
+2017-08-16 17:08:10,577000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,581000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,584000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,594000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,598000 INFO  [default] No : 3 图像转换 times spend:  28.276
+2017-08-16 17:08:10,607000 INFO  [default] No : 4 拟合 times spend:  9.46855
+2017-08-16 17:08:10,614000 INFO  [default] Total times spend:  59.5729
+2017-08-16 17:08:10,654000 INFO  [default] No : 1 二值化 times spend:  6.90968
+2017-08-16 17:08:10,668000 INFO  [default] No : 2 查找轮廓 times spend:  14.4358
+2017-08-16 17:08:10,676000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,681000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,684000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,693000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,697000 INFO  [default] No : 3 图像转换 times spend:  28.7937
+2017-08-16 17:08:10,707000 INFO  [default] No : 4 拟合 times spend:  9.98156
+2017-08-16 17:08:10,714000 INFO  [default] Total times spend:  60.1207
+2017-08-16 17:08:10,755000 INFO  [default] No : 1 二值化 times spend:  7.76127
+2017-08-16 17:08:10,771000 INFO  [default] No : 2 查找轮廓 times spend:  16.0809
+2017-08-16 17:08:10,780000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,784000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,787000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,796000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,799000 INFO  [default] No : 3 图像转换 times spend:  28.0029
+2017-08-16 17:08:10,809000 INFO  [default] No : 4 拟合 times spend:  9.27298
+2017-08-16 17:08:10,816000 INFO  [default] Total times spend:  61.1181
+2017-08-16 17:08:10,854000 INFO  [default] No : 1 二值化 times spend:  7.16396
+2017-08-16 17:08:10,869000 INFO  [default] No : 2 查找轮廓 times spend:  14.7593
+2017-08-16 17:08:10,880000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,885000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,888000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,897000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,900000 INFO  [default] No : 3 图像转换 times spend:  31.6519
+2017-08-16 17:08:10,909000 INFO  [default] No : 4 拟合 times spend:  9.1699
+2017-08-16 17:08:10,916000 INFO  [default] Total times spend:  62.7452
+2017-08-16 17:08:10,954000 INFO  [default] No : 1 二值化 times spend:  5.90142
+2017-08-16 17:08:10,967000 INFO  [default] No : 2 查找轮廓 times spend:  13.191
+2017-08-16 17:08:10,975000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:10,979000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:10,981000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:10,990000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:10,995000 INFO  [default] No : 3 图像转换 times spend:  27.7268
+2017-08-16 17:08:11,004000 INFO  [default] No : 4 拟合 times spend:  9.05965
+2017-08-16 17:08:11,013000 INFO  [default] Total times spend:  55.8788
+2017-08-16 17:08:11,050000 INFO  [default] No : 1 二值化 times spend:  6.03897
+2017-08-16 17:08:11,063000 INFO  [default] No : 2 查找轮廓 times spend:  12.9555
+2017-08-16 17:08:11,071000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,076000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,078000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,087000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,090000 INFO  [default] No : 3 图像转换 times spend:  26.9172
+2017-08-16 17:08:11,100000 INFO  [default] No : 4 拟合 times spend:  9.53033
+2017-08-16 17:08:11,108000 INFO  [default] Total times spend:  55.4419
+2017-08-16 17:08:11,146000 INFO  [default] No : 1 二值化 times spend:  6.28472
+2017-08-16 17:08:11,159000 INFO  [default] No : 2 查找轮廓 times spend:  13.3217
+2017-08-16 17:08:11,168000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,174000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,178000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,186000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,190000 INFO  [default] No : 3 图像转换 times spend:  30.7051
+2017-08-16 17:08:11,199000 INFO  [default] No : 4 拟合 times spend:  9.09242
+2017-08-16 17:08:11,207000 INFO  [default] Total times spend:  59.404
+2017-08-16 17:08:11,247000 INFO  [default] No : 1 二值化 times spend:  8.17666
+2017-08-16 17:08:11,260000 INFO  [default] No : 2 查找轮廓 times spend:  13.4343
+2017-08-16 17:08:11,268000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,273000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,276000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,284000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,288000 INFO  [default] No : 3 图像转换 times spend:  27.8858
+2017-08-16 17:08:11,299000 INFO  [default] No : 4 拟合 times spend:  10.615
+2017-08-16 17:08:11,306000 INFO  [default] Total times spend:  60.1119
+2017-08-16 17:08:11,344000 INFO  [default] No : 1 二值化 times spend:  6.38609
+2017-08-16 17:08:11,357000 INFO  [default] No : 2 查找轮廓 times spend:  13.4371
+2017-08-16 17:08:11,365000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,370000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,373000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,381000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,385000 INFO  [default] No : 3 图像转换 times spend:  28.0152
+2017-08-16 17:08:11,394000 INFO  [default] No : 4 拟合 times spend:  9.10641
+2017-08-16 17:08:11,401000 INFO  [default] Total times spend:  56.9448
+2017-08-16 17:08:11,439000 INFO  [default] No : 1 二值化 times spend:  6.28882
+2017-08-16 17:08:11,452000 INFO  [default] No : 2 查找轮廓 times spend:  12.949
+2017-08-16 17:08:11,460000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,464000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,466000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,475000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,479000 INFO  [default] No : 3 图像转换 times spend:  26.9936
+2017-08-16 17:08:11,488000 INFO  [default] No : 4 拟合 times spend:  8.97296
+2017-08-16 17:08:11,495000 INFO  [default] Total times spend:  55.2044
+2017-08-16 17:08:11,534000 INFO  [default] No : 1 二值化 times spend:  7.57286
+2017-08-16 17:08:11,547000 INFO  [default] No : 2 查找轮廓 times spend:  13.1664
+2017-08-16 17:08:11,556000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,560000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,563000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,571000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,574000 INFO  [default] No : 3 图像转换 times spend:  26.6946
+2017-08-16 17:08:11,583000 INFO  [default] No : 4 拟合 times spend:  9.30677
+2017-08-16 17:08:11,591000 INFO  [default] Total times spend:  56.7407
+2017-08-16 17:08:11,630000 INFO  [default] No : 1 二值化 times spend:  6.61614
+2017-08-16 17:08:11,643000 INFO  [default] No : 2 查找轮廓 times spend:  13.9289
+2017-08-16 17:08:11,652000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,657000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,660000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,668000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,672000 INFO  [default] No : 3 图像转换 times spend:  28.1749
+2017-08-16 17:08:11,681000 INFO  [default] No : 4 拟合 times spend:  9.75526
+2017-08-16 17:08:11,689000 INFO  [default] Total times spend:  58.4752
+2017-08-16 17:08:11,727000 INFO  [default] No : 1 二值化 times spend:  6.70625
+2017-08-16 17:08:11,740000 INFO  [default] No : 2 查找轮廓 times spend:  13.2985
+2017-08-16 17:08:11,749000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,753000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,756000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,765000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,769000 INFO  [default] No : 3 图像转换 times spend:  28.3422
+2017-08-16 17:08:11,778000 INFO  [default] No : 4 拟合 times spend:  9.1856
+2017-08-16 17:08:11,785000 INFO  [default] Total times spend:  57.5325
+2017-08-16 17:08:11,823000 INFO  [default] No : 1 二值化 times spend:  6.5943
+2017-08-16 17:08:11,835000 INFO  [default] No : 2 查找轮廓 times spend:  12.9207
+2017-08-16 17:08:11,844000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,848000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,850000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,860000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,864000 INFO  [default] No : 3 图像转换 times spend:  28.5285
+2017-08-16 17:08:11,874000 INFO  [default] No : 4 拟合 times spend:  9.86755
+2017-08-16 17:08:11,881000 INFO  [default] Total times spend:  57.911
+2017-08-16 17:08:11,920000 INFO  [default] No : 1 二值化 times spend:  7.18854
+2017-08-16 17:08:11,934000 INFO  [default] No : 2 查找轮廓 times spend:  13.8412
+2017-08-16 17:08:11,942000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:11,946000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:11,949000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:11,958000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:11,962000 INFO  [default] No : 3 图像转换 times spend:  28.3456
+2017-08-16 17:08:11,971000 INFO  [default] No : 4 拟合 times spend:  9.04361
+2017-08-16 17:08:11,978000 INFO  [default] Total times spend:  58.4189
+2017-08-16 17:08:12,017000 INFO  [default] No : 1 二值化 times spend:  6.48234
+2017-08-16 17:08:12,030000 INFO  [default] No : 2 查找轮廓 times spend:  12.878
+2017-08-16 17:08:12,037000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,043000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,046000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,054000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,058000 INFO  [default] No : 3 图像转换 times spend:  28.391
+2017-08-16 17:08:12,067000 INFO  [default] No : 4 拟合 times spend:  8.67294
+2017-08-16 17:08:12,074000 INFO  [default] Total times spend:  56.4243
+2017-08-16 17:08:12,113000 INFO  [default] No : 1 二值化 times spend:  6.78441
+2017-08-16 17:08:12,126000 INFO  [default] No : 2 查找轮廓 times spend:  12.8551
+2017-08-16 17:08:12,134000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,138000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,141000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,150000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,153000 INFO  [default] No : 3 图像转换 times spend:  27.5288
+2017-08-16 17:08:12,164000 INFO  [default] No : 4 拟合 times spend:  10.7584
+2017-08-16 17:08:12,171000 INFO  [default] Total times spend:  57.9267
+2017-08-16 17:08:12,210000 INFO  [default] No : 1 二值化 times spend:  7.02231
+2017-08-16 17:08:12,223000 INFO  [default] No : 2 查找轮廓 times spend:  13.2534
+2017-08-16 17:08:12,232000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,236000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,238000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,247000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,251000 INFO  [default] No : 3 图像转换 times spend:  27.2557
+2017-08-16 17:08:12,261000 INFO  [default] No : 4 拟合 times spend:  10.2041
+2017-08-16 17:08:12,268000 INFO  [default] Total times spend:  57.7356
+2017-08-16 17:08:12,307000 INFO  [default] No : 1 二值化 times spend:  7.07897
+2017-08-16 17:08:12,320000 INFO  [default] No : 2 查找轮廓 times spend:  13.4518
+2017-08-16 17:08:12,329000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,335000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,338000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,347000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,351000 INFO  [default] No : 3 图像转换 times spend:  30.6157
+2017-08-16 17:08:12,360000 INFO  [default] No : 4 拟合 times spend:  9.06443
+2017-08-16 17:08:12,367000 INFO  [default] Total times spend:  60.2109
+2017-08-16 17:08:12,404000 INFO  [default] No : 1 二值化 times spend:  5.73008
+2017-08-16 17:08:12,418000 INFO  [default] No : 2 查找轮廓 times spend:  13.5835
+2017-08-16 17:08:12,429000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,434000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,437000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,447000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,450000 INFO  [default] No : 3 图像转换 times spend:  31.8721
+2017-08-16 17:08:12,459000 INFO  [default] No : 4 拟合 times spend:  9.31462
+2017-08-16 17:08:12,466000 INFO  [default] Total times spend:  60.5003
+2017-08-16 17:08:12,505000 INFO  [default] No : 1 二值化 times spend:  6.75472
+2017-08-16 17:08:12,518000 INFO  [default] No : 2 查找轮廓 times spend:  13.5231
+2017-08-16 17:08:12,528000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,533000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,536000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,545000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,549000 INFO  [default] No : 3 图像转换 times spend:  30.9952
+2017-08-16 17:08:12,559000 INFO  [default] No : 4 拟合 times spend:  9.72283
+2017-08-16 17:08:12,566000 INFO  [default] Total times spend:  60.9959
+2017-08-16 17:08:12,604000 INFO  [default] No : 1 二值化 times spend:  6.50419
+2017-08-16 17:08:12,617000 INFO  [default] No : 2 查找轮廓 times spend:  13.2517
+2017-08-16 17:08:12,627000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,632000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,635000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,644000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,648000 INFO  [default] No : 3 图像转换 times spend:  30.6894
+2017-08-16 17:08:12,657000 INFO  [default] No : 4 拟合 times spend:  9.52658
+2017-08-16 17:08:12,664000 INFO  [default] Total times spend:  59.9719
+2017-08-16 17:08:12,703000 INFO  [default] No : 1 二值化 times spend:  6.24035
+2017-08-16 17:08:12,717000 INFO  [default] No : 2 查找轮廓 times spend:  13.7371
+2017-08-16 17:08:12,725000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,729000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,731000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,740000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,744000 INFO  [default] No : 3 图像转换 times spend:  27.3786
+2017-08-16 17:08:12,754000 INFO  [default] No : 4 拟合 times spend:  9.95459
+2017-08-16 17:08:12,762000 INFO  [default] Total times spend:  57.3107
+2017-08-16 17:08:12,800000 INFO  [default] No : 1 二值化 times spend:  6.26424
+2017-08-16 17:08:12,813000 INFO  [default] No : 2 查找轮廓 times spend:  13.649
+2017-08-16 17:08:12,821000 INFO  [default] BEFORE TRANSF
+2017-08-16 17:08:12,826000 INFO  [default] AFTER TRANSF
+2017-08-16 17:08:12,828000 INFO  [default] BEFORE LINE-DETECT
+2017-08-16 17:08:12,836000 INFO  [default] AFTER LINE-DETECT
+2017-08-16 17:08:12,840000 INFO  [default] No : 3 图像转换 times spend:  26.1174
+2017-08-16 17:08:12,849000 INFO  [default] No : 4 拟合 times spend:  9.27946
+2017-08-16 17:08:12,856000 INFO  [default] Total times spend:  55.3102
+2017-08-16 17:08:12,859000 INFO  [default] average : 59.3037
